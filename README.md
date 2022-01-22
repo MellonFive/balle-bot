@@ -1,6 +1,8 @@
-Olá pessoal, aqui estou fazendo uma landing page do site da Rafaella Ballerini
+## Olá pessoal!!
 
-Tecnologias que estou utilizando:
+### Aqui estou fazendo uma landing page do site da Rafaella Ballerini
+
+## Tecnologias que estou utilizando:
 
 - HTML
 - CSS
